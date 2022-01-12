@@ -1,0 +1,32 @@
+﻿  CollisionDetection.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,14): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,60): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(16,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(17,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(18,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(19,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(20,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(21,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(22,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(23,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(24,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(36,46): warning C4305: “=”: 从“double”到“float”截断
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(37,46): warning C4305: “=”: 从“double”到“float”截断
+D:\Eusford\Homework\2017010428_v2.0\src\CollisionDetection\CollisionDetection.cpp(38,46): warning C4305: “=”: 从“double”到“float”截断
+  OpenCLEntity.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  Spheres.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  正在生成代码
+  7 of 150 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CollisionDetection.vcxproj -> D:\Eusford\Homework\2017010428_v2.0\src\x64\Release\CollisionDetection.exe
